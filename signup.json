@@ -1,0 +1,18 @@
+[
+  {
+    "username": "rhutuja",
+    "password": "rhutuja@123",
+    "date_of_birth": "12333333334",
+    "hobby": "tyu",
+    "gender": "f",
+    "description": "yuio"
+  },
+  {
+    "username": "veda",
+    "password": "veda@1234",
+    "date_of_birth": "5678",
+    "hobby": "tyui",
+    "gender": "f",
+    "description": "tyui"
+  }
+]
